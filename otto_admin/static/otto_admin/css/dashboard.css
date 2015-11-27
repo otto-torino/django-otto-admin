@@ -1,0 +1,35 @@
+.dashboard #content-main {
+    width: 65%;
+}
+.dashboard #content-related {
+    margin-left: 0 !important;
+    width: 32%;
+    float: right !important;
+}
+.dashboard #content-related .actionlist {
+    margin-top: 26px;
+}
+.dashboard .panel {
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: auto;
+}
+.dashboard .panel h1 {
+    padding: 8px 8px 0;
+    font-weight: normal;
+    color: #333;
+    font-size: 20px;
+    margin: 0;
+}
+.dashboard .panel h2 {
+    padding: 0 8px;
+    margin: 0;
+    font-weight: normal;
+    color: #999;
+    font-size: 16px;
+}
+.dashboard .panel > div {
+    padding: 0 8px;
+}

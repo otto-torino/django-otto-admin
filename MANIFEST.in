@@ -1,0 +1,6 @@
+include LICENSE
+include README.md
+include screenshot.png
+recursive-include otto_admin/locale *
+recursive-include otto_admin/static *
+recursive-include otto_admin/templates *

@@ -1,0 +1,57 @@
+# otto_admin IT translations.
+# Copyright (C) 2015 otto srl
+# This file is distributed under the same license as the PACKAGE package.
+# abidibo <abidibo@gmail.com>, 2015.
+#
+
+#: templates/admin/base.html:184
+msgid "Support needed"
+msgstr "Richiesta supporto"
+
+#: templates/otto_admin/analytics.html:22
+msgid "Traffic"
+msgstr "Traffico"
+
+#: templates/otto_admin/analytics.html:23
+msgid "Sessions and Users, last 15 days"
+msgstr "Sessioni e Utenti, ultimi 15gg"
+
+#: templates/otto_admin/analytics.html:29
+msgid "Popular"
+msgstr "Popolare"
+
+#: templates/otto_admin/analytics.html:30
+msgid "Page views, last 15 days"
+msgstr "Visualizzazione pagine, ultimi 15gg"
+
+#: templates/otto_admin/analytics.html:38
+msgid "Top Browsers"
+msgstr "Top Browser"
+
+#: templates/otto_admin/analytics.html:39
+msgid "Last 15 days"
+msgstr "Ultimi 15 giorni"
+
+#: templates/otto_admin/analytics.html:45
+msgid "Acquisition"
+msgstr "Acquisizione"
+
+#: templates/otto_admin/analytics.html:46
+msgid "Referral Traffic, last 15 days"
+msgstr "Referral Traffic, ultimi 15gg"
+
+#: templates/otto_admin/analytics.html:54
+msgid "Audience"
+msgstr "Visitatori"
+
+#: templates/otto_admin/analytics.html:55
+msgid "Countries, last 15 days"
+msgstr "Paesi, ultimi 15gg"
+
+#: templates/otto_admin/analytics.html:61
+msgid "Social"
+msgstr "Social"
+
+#: templates/otto_admin/analytics.html:62
+msgid "Interactions, last 15 days"
+msgstr "Interazioni, ultimi 15gg"
