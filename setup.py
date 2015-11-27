@@ -1,4 +1,5 @@
 import os
+#from distutils.core import setup
 from setuptools import setup
 
 with open(os.path.join(os.path.dirname(__file__), 'README.md')) as readme:
@@ -9,11 +10,11 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-otto-admin',
-    version='0.1.0',
+    version='0.1.1',
     packages=['otto_admin', 'otto_admin.templatetags'],
     include_package_data=True,
     license='MIT License',
-    description='Django admin customization app for django-suit',
+    description='Django admin customization app for django-suit providing google analytics widgets in the admin index',
     long_description=README,
     url='http://github.com/otto-torino/django-otto-admin',
     author='abidibo',

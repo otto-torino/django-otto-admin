@@ -1,2 +1,5 @@
 *.swp
 *.pyc
+build
+dist
+django_otto_admin.egg-info

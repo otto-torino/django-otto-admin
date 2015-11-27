@@ -40,7 +40,7 @@ def otto_admin_conf(name):
 
     defaults = {
         'OA_COPYRIGHT': '2015 otto.to.it',
-        'OA_SUPPORT_EMAIL': 'stefano.contini@otto.to.it',
+        'OA_SUPPORT_EMAIL': 'mail@otto.to.it',
         'OA_POWERED_BY': 'Otto srl',
         'OA_POWERED_BY_URL': 'http://www.otto.to.it',
     }

@@ -13,6 +13,7 @@ Would you like to have some google analytics report widgets in your admin index 
 - custom developed by string and url
 - custom support mailto
 - admin index with google analytics panel implemented through [analytics embed API](https://ga-dev-tools.appspot.com/)
+    - Realtime active users
     - Traffic (sessions and users), last 15 days
     - Popular Page views, last 15 days
     - Top Browsers, last 15 days
@@ -65,7 +66,7 @@ id of the analytics view you want to show in the admin index
 Copyright string, default '2015 Otto srl'
 
 ###__OA_SUPPORT_EMAIL__
-Mailto support email, default 'abidibo@gmail.com'
+Mailto support email, default 'mail@otto.to.it'
 
 ###__OA_POWERED_BY__
 Powered by string, default 'Otto srl'
