@@ -1,3 +1,0 @@
-Django
-django-suit
-google-api-python-client
