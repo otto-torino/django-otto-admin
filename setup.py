@@ -10,7 +10,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-otto-admin',
-    version='0.1.1',
+    version='0.1.2',
     packages=['otto_admin', 'otto_admin.templatetags'],
     include_package_data=True,
     license='MIT License',
@@ -23,6 +23,7 @@ setup(
         'Django',
         'django-suit',
         'google-api-python-client',
+        'oauth2client==1.5.2',
     ],
     classifiers=[
         'Environment :: Web Environment',
