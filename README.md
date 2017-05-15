@@ -56,20 +56,20 @@ Then you will need to configure __otto\_admin__ with the json path and the view 
 
 ## Settings configuration
 
-###__OA_ANALYTICS_CREDENTIALS_JSON (required)__
+### __OA_ANALYTICS_CREDENTIALS_JSON (required)__
 full path to the json key file of your app service account
 
-###__OA_ANALYTICS_VIEW_ID (required)__
+### __OA_ANALYTICS_VIEW_ID (required)__
 id of the analytics view you want to show in the admin index
 
-###__OA_COPYRIGHT__
+### __OA_COPYRIGHT__
 Copyright string, default '2015 Otto srl'
 
-###__OA_SUPPORT_EMAIL__
+### __OA_SUPPORT_EMAIL__
 Mailto support email, default 'mail@otto.to.it'
 
-###__OA_POWERED_BY__
+### __OA_POWERED_BY__
 Powered by string, default 'Otto srl'
 
-###__OA_POWERED_BY_URL__
+### __OA_POWERED_BY_URL__
 Powered by url, default 'http://www.otto.to.it'
